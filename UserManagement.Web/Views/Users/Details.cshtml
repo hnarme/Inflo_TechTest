@@ -1,0 +1,23 @@
+﻿@model UserManagement.Models.User
+@{
+    ViewData["Title"] = "User Details";
+}
+
+<h2>User Details</h2>
+
+<div>
+    <hr />
+    <dl class="container">
+        <div class="col-md-3 agile_grid_right">
+            <p class="fexi_header"><span>Name: </span>@Model.Forename @Model.Surname</p>
+            <p class="fexi_header_para"><span>@Html.DisplayNameFor(Model => Model.DateOfBirth): </span> @Model.DateOfBirth </p>
+            <p class="fexi_header_para"><span>@Html.DisplayNameFor(Model => Model.Email): </span> @Model.Email </p>
+            <p class="fexi_header_para"><span>@Html.DisplayNameFor(Model => Model.IsActive): </span> @(Model.IsActive ? "Yes" : "No")</p>
+        </div>
+    </dl>
+</div>
+
+<hr />
+<div>
+    <a asp-controller="Users" asp-action="List" class="btn btn-primary">Cancel</a>
+</div>

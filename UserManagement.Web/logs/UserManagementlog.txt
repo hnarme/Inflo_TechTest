@@ -1,0 +1,83 @@
+2024-03-17 11:41:08.198 +00:00 [INF] User is on  the user list page
+2024-03-17 11:41:15.518 +00:00 [INF] User is on the page to create new users
+2024-03-17 11:41:17.273 +00:00 [INF] User is on  the user list page
+2024-03-17 11:41:19.105 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 11:41:21.159 +00:00 [INF] User is on  the user list page
+2024-03-17 11:41:22.500 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 11:41:24.925 +00:00 [INF] User is on  the user list page
+2024-03-17 11:41:28.313 +00:00 [INF] User is on the details page for => {"Id":5,"Forename":"Stanley","Surname":"Goodspeed","DateOfBirth":"1993-01-24","Email":"sgodspeed@example.com","IsActive":true,"$type":"User"}
+2024-03-17 11:41:30.067 +00:00 [INF] User is on  the user list page
+2024-03-17 11:41:34.709 +00:00 [INF] User is on the delete page for => {"Id":8,"Forename":"Edward","Surname":"Malus","DateOfBirth":"1990-10-28","Email":"emalus@example.com","IsActive":false,"$type":"User"}
+2024-03-17 11:41:37.084 +00:00 [INF] User is on  the user list page
+2024-03-17 11:43:09.655 +00:00 [INF] User is on  the user list page
+2024-03-17 11:43:11.078 +00:00 [INF] User is on the page to create new users
+2024-03-17 11:43:42.131 +00:00 [INF]  A new user has been created for => {"Id":12,"Forename":"Daefe","Surname":"Fasdsa","DateOfBirth":"2024-03-15","Email":"Jusd@ameo.com","IsActive":false,"$type":"User"}
+2024-03-17 11:43:42.145 +00:00 [INF] User is on  the user list page
+2024-03-17 11:43:47.402 +00:00 [INF] User is on the delete page for => {"Id":12,"Forename":"Daefe","Surname":"Fasdsa","DateOfBirth":"2024-03-15","Email":"Jusd@ameo.com","IsActive":false,"$type":"User"}
+2024-03-17 11:43:48.859 +00:00 [INF] User has deleted the details for => {"Id":12,"Forename":null,"Surname":null,"DateOfBirth":"0001-01-01","Email":null,"IsActive":false,"$type":"User"}
+2024-03-17 11:43:48.863 +00:00 [INF] User is on  the user list page
+2024-03-17 11:45:31.709 +00:00 [INF] User is on  the user list page
+2024-03-17 11:54:44.807 +00:00 [INF] User is on  the user list page
+2024-03-17 11:56:00.165 +00:00 [INF] User is on  the user list page
+2024-03-17 11:56:28.766 +00:00 [INF] User is on  the user list page
+2024-03-17 12:23:03.911 +00:00 [INF] User is on  the user list page
+2024-03-17 12:23:06.117 +00:00 [INF] User is on  the user list page
+2024-03-17 12:23:07.800 +00:00 [INF] User is on  the user list page
+2024-03-17 12:23:48.551 +00:00 [INF] User is on  the user list page
+2024-03-17 12:31:54.270 +00:00 [INF] User is on  the user list page
+2024-03-17 12:32:26.961 +00:00 [INF] User is on  the user list page
+2024-03-17 12:32:29.127 +00:00 [INF] User is on  the user list page
+2024-03-17 12:32:31.093 +00:00 [INF] User is on  the user list page
+2024-03-17 12:33:04.525 +00:00 [INF] User is on  the user list page
+2024-03-17 12:36:45.220 +00:00 [INF] User is on  the user list page
+2024-03-17 12:58:18.319 +00:00 [INF] User is on  the user list page
+2024-03-17 12:59:17.738 +00:00 [INF] User is on  the user list page
+2024-03-17 12:59:30.097 +00:00 [INF] User is on  the user list page
+2024-03-17 13:00:12.331 +00:00 [INF] User is on  the user list page
+2024-03-17 13:01:21.933 +00:00 [INF] User is on  the user list page
+2024-03-17 13:04:40.361 +00:00 [INF] User is on  the user list page
+2024-03-17 13:09:43.781 +00:00 [INF] User is on  the user list page
+2024-03-17 13:09:48.411 +00:00 [INF] User is on the page to create new users
+2024-03-17 13:10:18.561 +00:00 [INF] User is on  the user list page
+2024-03-17 13:12:28.448 +00:00 [INF] User is on  the user list page
+2024-03-17 13:31:42.721 +00:00 [INF] User is on  the user list page
+2024-03-17 13:35:39.048 +00:00 [INF] User is on  the user list page
+2024-03-17 13:39:19.201 +00:00 [INF] User is on  the user list page
+2024-03-17 13:41:41.526 +00:00 [INF] User is on  the user list page
+2024-03-17 13:44:00.167 +00:00 [INF] User is on  the user list page
+2024-03-17 13:44:25.841 +00:00 [INF] User is on  the user list page
+2024-03-17 13:46:58.828 +00:00 [INF] User is on  the user list page
+2024-03-17 13:46:59.988 +00:00 [INF] User is on the page to create new users
+2024-03-17 13:47:44.097 +00:00 [INF] User is on  the user list page
+2024-03-17 13:49:08.704 +00:00 [INF] User is on  the user list page
+2024-03-17 13:49:18.535 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 13:50:46.008 +00:00 [INF] User is on  the user list page
+2024-03-17 13:50:51.408 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 13:50:52.541 +00:00 [INF] User is on  the user list page
+2024-03-17 13:50:53.977 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 13:52:34.694 +00:00 [INF] User is on  the user list page
+2024-03-17 13:54:21.544 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 13:54:22.953 +00:00 [INF] User is on  the user list page
+2024-03-17 13:54:24.237 +00:00 [INF] User is on the page to create new users
+2024-03-17 13:54:35.609 +00:00 [INF] User is on the page to create new users
+2024-03-17 13:55:08.586 +00:00 [INF] User is on  the user list page
+2024-03-17 13:57:21.671 +00:00 [INF] User is on  the user list page
+2024-03-17 13:57:27.171 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 13:58:34.983 +00:00 [INF] User is on  the user list page
+2024-03-17 13:58:48.019 +00:00 [INF] User is on the delete page for => {"Id":10,"Forename":"Johnny","Surname":"Blaze","DateOfBirth":"1988-04-08","Email":"jblaze@example.com","IsActive":true,"$type":"User"}
+2024-03-17 13:58:50.257 +00:00 [INF] User is on  the user list page
+2024-03-17 13:58:52.759 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 13:58:54.660 +00:00 [INF] User is on  the user list page
+2024-03-17 13:58:56.105 +00:00 [INF] User is on the details page for => {"Id":2,"Forename":"Benjamin Franklin","Surname":"Gates","DateOfBirth":"1996-12-20","Email":"bfgates@example.com","IsActive":true,"$type":"User"}
+2024-03-17 13:58:58.492 +00:00 [INF] User is on  the user list page
+2024-03-17 13:58:59.977 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 14:03:51.152 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 14:04:17.415 +00:00 [INF] User is on  the user list page
+2024-03-17 14:04:26.546 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 14:09:50.694 +00:00 [INF] User is on  the user list page
+2024-03-17 14:09:55.074 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 14:13:13.927 +00:00 [INF] User is on  the user list page
+2024-03-17 14:13:18.368 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 14:14:03.748 +00:00 [INF] User is on the details page for => {"Id":1,"Forename":"Peter","Surname":"Loew","DateOfBirth":"1997-05-08","Email":"ploew@example.com","IsActive":true,"$type":"User"}
+2024-03-17 14:14:34.237 +00:00 [INF] User is on  the user list page
+2024-03-17 14:14:36.259 +00:00 [INF] User is on the details page for => {"Id":4,"Forename":"Memphis","Surname":"Raines","DateOfBirth":"1994-06-18","Email":"mraines@example.com","IsActive":true,"$type":"User"}

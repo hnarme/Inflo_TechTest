@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap');
+
+html {
+    position: relative;
+    font: 20px;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+.navbar {
+    background-color: #E87461;
+}
+
+*, body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.btn {
+    background-color: #E87461;
+    border: 5px #fff;
+}
+
+    .btn:hover {
+        background-color: #5C9EAD;
+    }
+
+    .btn:focus, .btn:active:focus, .form-control:focus, .form-check-input:focus {
+        box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #E87461;
+    }
+.dropdown-item:hover {
+    background-color: #5C9EAD;
+}
+
+.agile_grid_right {
+    border: 1px;
+    box-shadow: 6px 5px 8px #888888;
+}
+
+.page-container {
+    position: relative;
+    text-align: left;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.btn-group-top, .btn-group-btm {
+    position: relative;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+    color: white;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #E87461;
+}
+
+.form-content {
+    border: 3px solid #fff;
+    padding: 20px;
+    display: inline-block;
+    width: 100%;
+    min-width: 540px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    text-align: left;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+
+.form-group {
+    padding: 2px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+[type="checkbox"] {
+    position: relative;
+    padding-left: 25px;
+    padding-top: 1px;
+    cursor: pointer;
+    border-radius: 3px;
+    padding-left: 25px;
+    padding-top: 1px;
+    transition: all .2s;
+    left: 3px;
+    top: 3px;
+    width: 17px;
+    height: 17px;
+}
+
